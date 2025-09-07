@@ -138,7 +138,7 @@ ahora cuando un cliente deje una nota, genera esa nueva nota:
 
 El proyecto es **viable** porque:  
 
-- Los modelos de IA (como GPT-5) ya están entrenados, por lo que solo se requiere diseñar buenos prompts.  
+- Los modelos de IA (como Gemini) ya están entrenados, por lo que solo se requiere diseñar buenos prompts.  
 - No se necesitan grandes recursos, basta con un entorno de desarrollo local.  
 - La agenda del jardinero puede gestionarse inicialmente en **JSON** o una **base de datos ligera**.  
 - El prototipo puede construirse en un tiempo razonable utilizando **Python** y librerías simples.  
