@@ -158,7 +158,7 @@ Crear un asistente virtual que automatice presupuestos y gestione la agenda de j
 
 ---
 
-## 🛠️ Metodología  
+## 🛠️ Metodología
 
 El proyecto se desarrollará en **seis etapas**:  
 
@@ -168,3 +168,18 @@ El proyecto se desarrollará en **seis etapas**:
 4. **Integración de agenda y tarifas** → cargar precios y horarios disponibles.  
 5. **Pruebas y mejoras** → verificar exactitud y coherencia de respuestas.  
 6. **Documentación final** → preparar la entrega y README.  
+
+
+## ⚙️ Instalación  y Uso
+
+- Clonar este repositorio:  
+
+   ```bash
+   git clone https://github.com/JulianGiansanti7/EntregaFinal-JS.git
+
+
+🌐 USO de Jupyter Notebook
+
+Para un apto USO del bot agregar una ApiKey de Google Gemini en GreenBot.ipynb
+
+🔗 [ApiKey GEMINI](https://aistudio.google.com/apikey)
