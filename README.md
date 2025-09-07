@@ -175,7 +175,7 @@ El proyecto se desarrollará en **seis etapas**:
 - Clonar este repositorio:  
 
    ```bash
-   git clone https://github.com/JulianGiansanti7/EntregaFinal-JS.git
+   git clone https://github.com/JulianGiansanti7/Generacion-de-Prompts-Entrega2.git
 
 
 🌐 USO de Jupyter Notebook
